@@ -1,14 +1,21 @@
 \begin{thebibliography}{}
 
+\bibitem[Brune et~al., 1969]{Brune1969}
+Brune, J.~N., Henyey, T.~L., and Roy, R.~F. (1969).
+\newblock {Heat flow, stress, and rate of slip along the San Andreas Fault,
+  California}.
+\newblock {\em Journal of Geophysical Research}, 74(15):3821--3827.
+
 \bibitem[Byerlee, 1978]{Byerlee1978}
 Byerlee, J. (1978).
 \newblock {Friction of rocks}.
-\newblock {\em Pure and Applied Geophysics PAGEOPH}, 116:615--626.
+\newblock {\em Pure and Applied Geophysics}, 116:615--626.
 
-\bibitem[Carpenter et al., 2011]{Carpenter2011}
-Carpenter, B. M., Marone, C., Saffer, D. M. (2011).
-\newblock {Weakness of the San Andreas Fault revealed by samples from the active fault zone}.
-\newblock {\em Nature}, 4:251-254.
+\bibitem[Carpenter et~al., 2011]{Carpenter2011}
+Carpenter, B.~M., Marone, C., and Saffer, D.~M. (2011).
+\newblock {Weakness of the San Andreas Fault revealed by samples from the
+  active fault zone}.
+\newblock {\em Nature Geoscience}, 4(4):251--254.
 
 \bibitem[Kanamori and Anderson, 1975]{Kanamori1975}
 Kanamori, H. and Anderson, D.~L. (1975).
@@ -28,9 +35,25 @@ Okada, Y. (1992).
 \newblock {\em Bulletin of the Seismological Society of America},
   82(2):1018--1040.
 
+\bibitem[Shearer et~al., 2006]{Shearer2006}
+Shearer, P.~M., Prieto, G.~a., and Hauksson, E. (2006).
+\newblock {Comprehensive analysis of earthquake source spectra in southern
+  California}.
+\newblock {\em Journal of Geophysical Research}, 111:1--21.
+
 \bibitem[Wallace, 1951]{Wallace1951}
 Wallace, R.~E. (1951).
 \newblock {Geometry of Shearing Stress and Relation to Faulting}.
 \newblock {\em The Journal of Geology}, 59(2):118--130.
+
+\bibitem[Zoback et~al., 1987]{Zoback1987}
+Zoback, M.~D., Zoback, M.~L., Mount, V.~S., Suppe, J., Eaton, J.~P., Healy,
+  J.~H., Oppenheimer, D., Reasenberg, P., Jones, L., Raleigh, C.~B., Wong, G.,
+  Scotti, O., Wentworth, C., Zoback, M.~D., Zoback, M.~L., Mount, V. A. N.~S.,
+  Suppe, J., Eaton, J.~P., Healy, J.~H., Oppenheimer, D., Reasenberg, P.,
+  Jones, L., Raleigh, C.~B., Wong, I.~G., Scotri, O., and Wentworth, C. (1987).
+\newblock {New Evidence on the State of Stress of the San Andreas Fault System
+  Linked}.
+\newblock 238(4830):1105--1111.
 
 \end{thebibliography}
