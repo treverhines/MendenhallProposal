@@ -4,45 +4,45 @@ The top-level auxiliary file: HinesMendenhallProposal.aux
 The style file: apalike.bst
 Database file #1: mybib.bib
 Warning--empty journal in Zoback1987
-You've used 9 entries,
+You've used 10 entries,
             1935 wiz_defined-function locations,
-            541 strings with 5510 characters,
-and the built_in function-call counts, 4323 in all, are:
-= -- 412
-> -- 234
+            549 strings with 5709 characters,
+and the built_in function-call counts, 4770 in all, are:
+= -- 457
+> -- 252
 < -- 5
-+ -- 84
-- -- 84
-* -- 414
-:= -- 762
-add.period$ -- 27
-call.type$ -- 9
-change.case$ -- 87
-chr.to.int$ -- 9
-cite$ -- 10
-duplicate$ -- 126
-empty$ -- 269
-format.name$ -- 97
-if$ -- 811
++ -- 90
+- -- 90
+* -- 457
+:= -- 838
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 95
+chr.to.int$ -- 10
+cite$ -- 11
+duplicate$ -- 140
+empty$ -- 301
+format.name$ -- 104
+if$ -- 897
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 9
-newline$ -- 48
-num.names$ -- 27
-pop$ -- 66
+missing$ -- 10
+newline$ -- 53
+num.names$ -- 30
+pop$ -- 72
 preamble$ -- 1
-purify$ -- 87
+purify$ -- 95
 quote$ -- 0
-skip$ -- 96
+skip$ -- 106
 stack$ -- 0
-substring$ -- 332
-swap$ -- 8
+substring$ -- 375
+swap$ -- 9
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 54
+type$ -- 60
 warning$ -- 1
-while$ -- 35
+while$ -- 39
 width$ -- 0
-write$ -- 118
+write$ -- 131
 (There was 1 warning)

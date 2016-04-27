@@ -28,6 +28,12 @@ Lawson, C.~L. and Hanson, R.~J. (1995).
 \newblock {Solving least squares problems}.
 \newblock {\em SIAM classics in applied mathematics}, 15:337.
 
+\bibitem[Minson et~al., 2013]{Minson2013}
+Minson, S.~E., Simons, M., and Beck, J.~L. (2013).
+\newblock {Bayesian inversion for finite fault earthquake source models
+  I-theory and algorithm}.
+\newblock {\em Geophysical Journal International}, 194(3):1701--1726.
+
 \bibitem[Okada, 1992]{Okada1992}
 Okada, Y. (1992).
 \newblock {Internal deformation due to shear and tensile faults in a half
