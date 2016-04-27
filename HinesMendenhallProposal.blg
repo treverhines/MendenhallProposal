@@ -3,44 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: HinesMendenhallProposal.aux
 The style file: apalike.bst
 Database file #1: mybib.bib
-You've used 1 entry,
+Warning--I didn't find a database entry for "Carpenter2011"
+You've used 5 entries,
             1935 wiz_defined-function locations,
-            479 strings with 3920 characters,
-and the built_in function-call counts, 421 in all, are:
-= -- 42
-> -- 13
-< -- 1
-+ -- 4
-- -- 4
-* -- 37
-:= -- 75
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 7
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 14
-empty$ -- 31
-format.name$ -- 7
-if$ -- 80
+            513 strings with 4382 characters,
+and the built_in function-call counts, 1891 in all, are:
+= -- 194
+> -- 47
+< -- 5
++ -- 14
+- -- 14
+* -- 160
+:= -- 328
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 32
+chr.to.int$ -- 5
+cite$ -- 5
+duplicate$ -- 70
+empty$ -- 149
+format.name$ -- 23
+if$ -- 368
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 4
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 15
+pop$ -- 17
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 32
 quote$ -- 0
-skip$ -- 12
+skip$ -- 56
 stack$ -- 0
-substring$ -- 37
-swap$ -- 1
+substring$ -- 181
+swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 30
 warning$ -- 0
-while$ -- 4
+while$ -- 19
 width$ -- 0
-write$ -- 15
+write$ -- 67
+(There was 1 warning)
