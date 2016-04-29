@@ -5,45 +5,45 @@ The style file: apalike.bst
 Database file #1: mybib.bib
 Warning--there's a number but no volume in Aagaard2013
 Warning--empty journal in Zoback1987
-You've used 18 entries,
+You've used 19 entries,
             1935 wiz_defined-function locations,
-            597 strings with 7390 characters,
-and the built_in function-call counts, 8203 in all, are:
-= -- 795
-> -- 416
+            604 strings with 7910 characters,
+and the built_in function-call counts, 9146 in all, are:
+= -- 872
+> -- 514
 < -- 8
-+ -- 146
-- -- 146
-* -- 783
-:= -- 1439
-add.period$ -- 54
-call.type$ -- 18
-change.case$ -- 163
-chr.to.int$ -- 18
-cite$ -- 20
-duplicate$ -- 251
-empty$ -- 525
-format.name$ -- 174
-if$ -- 1548
++ -- 184
+- -- 184
+* -- 890
+:= -- 1611
+add.period$ -- 57
+call.type$ -- 19
+change.case$ -- 187
+chr.to.int$ -- 19
+cite$ -- 21
+duplicate$ -- 265
+empty$ -- 557
+format.name$ -- 213
+if$ -- 1714
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 18
-newline$ -- 93
-num.names$ -- 54
-pop$ -- 122
+missing$ -- 19
+newline$ -- 98
+num.names$ -- 57
+pop$ -- 144
 preamble$ -- 1
-purify$ -- 163
+purify$ -- 187
 quote$ -- 0
-skip$ -- 188
+skip$ -- 198
 stack$ -- 0
-substring$ -- 628
-swap$ -- 17
+substring$ -- 671
+swap$ -- 18
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 108
+type$ -- 114
 warning$ -- 2
-while$ -- 69
+while$ -- 73
 width$ -- 0
-write$ -- 235
+write$ -- 248
 (There were 2 warnings)
