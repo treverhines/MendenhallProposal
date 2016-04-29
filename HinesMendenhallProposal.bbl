@@ -17,6 +17,20 @@ Carpenter, B.~M., Marone, C., and Saffer, D.~M. (2011).
   active fault zone}.
 \newblock {\em Nature Geoscience}, 4(4):251--254.
 
+\bibitem[Fukuda and Johnson, 2008]{Fukuda2008}
+Fukuda, J. and Johnson, K.~M. (2008).
+\newblock {A fully Bayesian inversion for spatial distribution of fault slip
+  with objective smoothing}.
+\newblock {\em Bulletin of the Seismological Society of America},
+  98(3):1128--1146.
+
+\bibitem[Johanson et~al., 2006]{Johanson2006}
+Johanson, I.~A., Fielding, E.~J., Rolandone, F., and B{\"{u}}rgmann, R. (2006).
+\newblock {Coseismic and postseismic slip of the 2004 Parkfield earthquake from
+  space-geodetic data}.
+\newblock {\em Bulletin of the Seismological Society of America}, 96(4
+  B):269--282.
+
 \bibitem[Kanamori and Anderson, 1975]{Kanamori1975}
 Kanamori, H. and Anderson, D.~L. (1975).
 \newblock {Theoretical basis of some empirical relations in seismology}.
@@ -34,6 +48,13 @@ Minson, S.~E., Simons, M., and Beck, J.~L. (2013).
   I-theory and algorithm}.
 \newblock {\em Geophysical Journal International}, 194(3):1701--1726.
 
+\bibitem[Murray and Langbein, 2006]{Murray2006}
+Murray, J. and Langbein, J. (2006).
+\newblock {Slip on the San Andreas fault at Parkfield, California, over two
+  earthquake cycles, and the implications for seismic hazard}.
+\newblock {\em Bulletin of the Seismological Society of America}, 96(4
+  B):283--303.
+
 \bibitem[Okada, 1992]{Okada1992}
 Okada, Y. (1992).
 \newblock {Internal deformation due to shear and tensile faults in a half
@@ -41,16 +62,42 @@ Okada, Y. (1992).
 \newblock {\em Bulletin of the Seismological Society of America},
   82(2):1018--1040.
 
+\bibitem[Page et~al., 2009]{Page2009}
+Page, M.~T., Cust{\'{o}}dio, S., Archuleta, R.~J., and Carlson, J.~M. (2009).
+\newblock {Constraining earthquake source inversions with GPS data: 1.
+  Resolution-based removal of artifacts}.
+\newblock {\em Journal of Geophysical Research: Solid Earth}, 114:1--13.
+
 \bibitem[Shearer et~al., 2006]{Shearer2006}
 Shearer, P.~M., Prieto, G.~a., and Hauksson, E. (2006).
 \newblock {Comprehensive analysis of earthquake source spectra in southern
   California}.
 \newblock {\em Journal of Geophysical Research}, 111:1--21.
 
+\bibitem[Simpson et~al., 2006]{Simpson2006}
+Simpson, R.~W., Barall, M., Langbein, J., Murray, J.~R., and Rymer, M.~J.
+  (2006).
+\newblock {San Andreas fault geometry in the Parkfield, California, region}.
+\newblock {\em Bulletin of the Seismological Society of America}, 96(4
+  B):28--37.
+
+\bibitem[Sun et~al., 2011]{Sun2011}
+Sun, J., Johnson, K.~M., Cao, Z., Shen, Z., B??rgmann, R., and Xu, X. (2011).
+\newblock {Mechanical constraints on inversion of coseismic geodetic data for
+  fault slip and geometry: Example from InSAR observation of the 6 October 2008
+  M w 6.3 Dangxiong-Yangyi (Tibet) earthquake}.
+\newblock {\em Journal of Geophysical Research: Solid Earth}, 116(1):1--20.
+
 \bibitem[Wallace, 1951]{Wallace1951}
 Wallace, R.~E. (1951).
 \newblock {Geometry of Shearing Stress and Relation to Faulting}.
 \newblock {\em The Journal of Geology}, 59(2):118--130.
+
+\bibitem[Yabuki and Matsuura, 1992]{Yabuki1992}
+Yabuki, T. and Matsuura, M. (1992).
+\newblock {Geodetic Data Inversion Using a Bayesian Information Criterion for
+  Spatial-Distribution of Fault Slip}.
+\newblock {\em Geophysical Journal International}, 109(2):363--375.
 
 \bibitem[Zoback et~al., 1987]{Zoback1987}
 Zoback, M.~D., Zoback, M.~L., Mount, V.~S., Suppe, J., Eaton, J.~P., Healy,
