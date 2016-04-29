@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  29 APR 2016 02:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  29 APR 2016 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,36 +339,29 @@ File: figure_2.pdf Graphic file (type pdf)
  <use figure_2.pdf>
 Package pdftex.def Info: figure_2.pdf used on input line 70.
 (pdftex.def)             Requested size: 469.75502pt x 244.66722pt.
- [4 <./figure_1.pdf>] [5 <./figure_2.pdf>]
-
-Package natbib Warning: Citation `Aagaard2009' on page 6 undefined on input lin
-e 86.
-
-(./HinesMendenhallProposal.bbl [6])
-
-Package natbib Warning: There were undefined citations.
-
-[7] (./HinesMendenhallProposal.aux) ) 
+ [4 <./figure_1.pdf>] [5 <./figure_2.pdf>] (./HinesMendenhallProposal.bbl [6]) 
+[7]
+(./HinesMendenhallProposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4834 strings out of 494985
- 66602 string characters out of 6180356
- 137873 words of memory out of 5000000
- 7978 multiletter control sequences out of 15000+600000
+ 4836 strings out of 494985
+ 66646 string characters out of 6180356
+ 137907 words of memory out of 5000000
+ 7980 multiletter control sequences out of 15000+600000
  13371 words of font info for 51 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,11n,43p,1740b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on HinesMendenhallProposal.pdf (7 pages, 298141 bytes).
+ 38i,11n,43p,1708b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on HinesMendenhallProposal.pdf (7 pages, 298134 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream

@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[Aagaard et~al., 2013]{Aagaard2013}
+Aagaard, B.~T., Knepley, M.~G., and Williams, C.~A. (2013).
+\newblock {A domain decomposition approad to implementing fault slip in
+  finite-element models of quasi-static and dynamic crustal deformation}.
+\newblock {\em Journal of Geophysical Research: Solid Earth}, (118).
+
 \bibitem[Brune et~al., 1969]{Brune1969}
 Brune, J.~N., Henyey, T.~L., and Roy, R.~F. (1969).
 \newblock {Heat flow, stress, and rate of slip along the San Andreas Fault,
