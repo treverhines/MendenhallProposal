@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  29 APR 2016 14:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.10)  30 APR 2016 12:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -348,12 +348,12 @@ Package pdftex.def Info: figure_2.pdf used on input line 77.
 (./HinesMendenhallProposal.aux) ) 
 Here is how much of TeX's memory you used:
  4840 strings out of 494985
- 66715 string characters out of 6180357
+ 66715 string characters out of 6180356
  137936 words of memory out of 5000000
  7984 multiletter control sequences out of 15000+600000
  13678 words of font info for 52 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,11n,43p,1870b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,43p,1870b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
@@ -364,7 +364,7 @@ hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on HinesMendenhallProposal.pdf (8 pages, 289786 bytes).
+Output written on HinesMendenhallProposal.pdf (8 pages, 289588 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
