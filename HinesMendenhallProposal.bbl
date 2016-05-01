@@ -2,9 +2,17 @@
 
 \bibitem[Aagaard et~al., 2013]{Aagaard2013}
 Aagaard, B.~T., Knepley, M.~G., and Williams, C.~A. (2013).
-\newblock {A domain decomposition approad to implementing fault slip in
+\newblock {A domain decomposition approach to implementing fault slip in
   finite-element models of quasi-static and dynamic crustal deformation}.
-\newblock {\em Journal of Geophysical Research: Solid Earth}, (118).
+\newblock {\em Journal of Geophysical Research: Solid Earth},
+  118(6):3059--3079.
+
+\bibitem[Barbot et~al., 2009]{Barbot2009}
+Barbot, S., Fialko, Y., and Bock, Y. (2009).
+\newblock {Postseismic deformation due to the Mw 6.0 2004 Parkfield earthquake:
+  Stress-driven creep on a fault with spatially variable rate-and-state
+  friction parameters}.
+\newblock {\em Journal of Geophysical Research: Solid Earth}, 114:1--26.
 
 \bibitem[Brune et~al., 1969]{Brune1969}
 Brune, J.~N., Henyey, T.~L., and Roy, R.~F. (1969).
@@ -22,6 +30,14 @@ Carpenter, B.~M., Marone, C., and Saffer, D.~M. (2011).
 \newblock {Weakness of the San Andreas Fault revealed by samples from the
   active fault zone}.
 \newblock {\em Nature Geoscience}, 4(4):251--254.
+
+\bibitem[Du et~al., 1992]{Du1992}
+Du, Y., Aydin, A., and Segall, P. (1992).
+\newblock {Comparison of various inversion techniques as applied to the
+  determination of a geophysical deformation model for the 1983 Borah Peak
+  earthquake}.
+\newblock {\em Bulletin of the Seismological Society of America},
+  82(4):1840--1866.
 
 \bibitem[Field et~al., 2014]{Field2014}
 Field, E.~H., Arrowsmith, R.~J., Biasi, G.~P., Bird, P., Dawson, T.~E., Felzer,
@@ -47,11 +63,32 @@ Johanson, I.~A., Fielding, E.~J., Rolandone, F., and B{\"{u}}rgmann, R. (2006).
 \newblock {\em Bulletin of the Seismological Society of America}, 96(4
   B):269--282.
 
+\bibitem[Johnson et~al., 2006]{Johnson2006}
+Johnson, K.~M., B{\"{u}}rgmann, R., and Larson, K. (2006).
+\newblock {Factional properties on the San Andreas fault near Parkfield,
+  California, inferred from models of afterslip following the 2004 earthquake}.
+\newblock {\em Bulletin of the Seismological Society of America}, 96(4
+  B):321--338.
+
+\bibitem[Johnson et~al., 2012]{Johnson2012}
+Johnson, K.~M., Fukuda, J., and Segall, P. (2012).
+\newblock {Challenging the rate-state asperity model: Afterslip following the
+  2011 M9 Tohoku-oki, Japan, earthquake}.
+\newblock {\em Geophysical Research Letters}, 39(20):1--5.
+
 \bibitem[Kanamori and Anderson, 1975]{Kanamori1975}
 Kanamori, H. and Anderson, D.~L. (1975).
 \newblock {Theoretical basis of some empirical relations in seismology}.
 \newblock {\em Bulletin of the Seismological Society of America},
   65(5):1073--1095.
+
+\bibitem[Langbein et~al., 2006]{Langbein2006}
+Langbein, J., Murray, J.~R., and Snyder, H.~A. (2006).
+\newblock {Coseismic and initial postseismic deformation from the 2004
+  Parkfield, California, earthquake, observed by global positioning system,
+  electronic distance meter, creepmeters, and borehole strainmeters}.
+\newblock {\em Bulletin of the Seismological Society of America}, 96(4
+  B):304--320.
 
 \bibitem[Lawson and Hanson, 1995]{Lawson1995}
 Lawson, C.~L. and Hanson, R.~J. (1995).
@@ -98,7 +135,8 @@ Simpson, R.~W., Barall, M., Langbein, J., Murray, J.~R., and Rymer, M.~J.
   B):28--37.
 
 \bibitem[Sun et~al., 2011]{Sun2011}
-Sun, J., Johnson, K.~M., Cao, Z., Shen, Z., B??rgmann, R., and Xu, X. (2011).
+Sun, J., Johnson, K.~M., Cao, Z., Shen, Z., B{\"{u}}rgmann, R., and Xu, X.
+  (2011).
 \newblock {Mechanical constraints on inversion of coseismic geodetic data for
   fault slip and geometry: Example from InSAR observation of the 6 October 2008
   M w 6.3 Dangxiong-Yangyi (Tibet) earthquake}.
@@ -118,9 +156,7 @@ Yabuki, T. and Matsuura, M. (1992).
 \bibitem[Zoback et~al., 1987]{Zoback1987}
 Zoback, M.~D., Zoback, M.~L., Mount, V.~S., Suppe, J., Eaton, J.~P., Healy,
   J.~H., Oppenheimer, D., Reasenberg, P., Jones, L., Raleigh, C.~B., Wong, G.,
-  Scotti, O., Wentworth, C., Zoback, M.~D., Zoback, M.~L., Mount, V. A. N.~S.,
-  Suppe, J., Eaton, J.~P., Healy, J.~H., Oppenheimer, D., Reasenberg, P.,
-  Jones, L., Raleigh, C.~B., Wong, I.~G., Scotri, O., and Wentworth, C. (1987).
+  Scotti, O., and Wentworth, C. (1987).
 \newblock {New Evidence on the State of Stress of the San Andreas Fault System
   Linked}.
 \newblock 238(4830):1105--1111.

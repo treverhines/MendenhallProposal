@@ -104,7 +104,7 @@ def observation_matrix(obs,segments):
 
 
 def shear_stress_matrix(segments,mu=3.2e10):
-  '''
+  ''' 
   Returns a matrix which maps a vector of slip to the shear
   stress change at the center of each fault segment 
   
@@ -304,7 +304,11 @@ best_stress_drop = K.dot(best_slip)
 
 # compute the predicted surface displacements
 predicted_data = G.dot(best_slip)
-
+x_itp = np.linspace(-50000.0,50000.0,1000)
+y_itp = 0*x_itp
+obs_itp = np.array([x_itp,y_itp]).T
+G_itp = observation_matrix(obs_itp,segments)
+predicted_data_itp = G_itp.dot(best_slip)
 
 # plot the solution
 fig,axs = plt.subplots(1,2,figsize=(11,5))
@@ -333,7 +337,9 @@ ax = axs[1]
 ax.errorbar(obs_x/1000.0,data,sigma,0*sigma,fmt='ko',
             markersize=4)
 idx = np.argsort(obs_x)
-ax.plot(obs_x[idx]/1000.0,predicted_data[idx],'bo-',
+#ax.plot(obs_x[idx]/1000.0,predicted_data[idx],'bo-',
+#        markersize=4)
+ax.plot(x_itp/1000.0,predicted_data_itp,'b-',
         markersize=4)
 ax.set_xlabel('distance across fault [km]')
 ax.set_ylabel('surface displacements [m]')
@@ -422,6 +428,7 @@ ax1.set_xlabel('slip [m]')
 ax1.set_ylabel('depth [km]')
 ax1.grid()
 cbar.set_label('relative likelihood')
+cbar.solids.set_rasterized(True)
 
 # new posterior
 Nbins = 50
@@ -443,7 +450,12 @@ ax2.set_xlabel('slip [m]')
 ax2.set_ylabel('depth [km]')
 ax2.grid()
 cbar.set_label('relative likelihood')
+cbar.solids.set_rasterized(True)
 
+plt.figure(1)
+plt.tight_layout(pad=0.0)
+plt.figure(2)
+plt.tight_layout(pad=0.0)
 plt.show()
 
 
