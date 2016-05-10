@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  2 MAY 2016 13:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  9 MAY 2016 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,13 +301,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [2] <figure_1.pdf, id=19, 794.97pt x 361.35pt>
 File: figure_1.pdf Graphic file (type pdf)
  <use figure_1.pdf>
-Package pdftex.def Info: figure_1.pdf used on input line 81.
+Package pdftex.def Info: figure_1.pdf used on input line 79.
 (pdftex.def)             Requested size: 469.75502pt x 213.53099pt.
  [3]
 <figure_2.pdf, id=23, 794.97pt x 361.35pt>
 File: figure_2.pdf Graphic file (type pdf)
  <use figure_2.pdf>
-Package pdftex.def Info: figure_2.pdf used on input line 88.
+Package pdftex.def Info: figure_2.pdf used on input line 86.
 (pdftex.def)             Requested size: 469.75502pt x 213.53099pt.
  [4 <./figure_1.pdf>] [5 <./figure_2.pdf>] [6] [7] (./HinesMendenhallProposal.b
 bl [8] [9])
@@ -315,7 +315,7 @@ bl [8] [9])
 Here is how much of TeX's memory you used:
  3413 strings out of 494985
  45229 string characters out of 6180357
- 113771 words of memory out of 5000000
+ 112771 words of memory out of 5000000
  6580 multiletter control sequences out of 15000+600000
  13371 words of font info for 51 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -330,7 +330,7 @@ usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on HinesMendenhallProposal.pdf (10 pages, 170760 bytes).
+Output written on HinesMendenhallProposal.pdf (10 pages, 170304 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
